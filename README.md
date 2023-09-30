@@ -15,7 +15,7 @@ When importing this deck, please make sure to add "Anteckningar" as a personal n
 
 ## Usage
 
-This contains 8000+ of the most frequently used Swedish vocab terms (more or less) from
+This contains approximately 8000+ of the most frequently used Swedish vocab terms from
 the [Kelly](https://spraakbanken.gu.se/en/resources/kelly) database.
 There are colors for verb and noun inflections, and real human native speakers for almost every card.
 
@@ -27,7 +27,7 @@ One may [roughly](https://languagelearning.stackexchange.com/questions/3061/what
 translate finishing the A1 deck to having the vocabulary of a beginner A1 speaker
 and finishing the C2 deck as having half the vocabulary of an educated native speaker.
 
-Remember vocabulary is a small fraction of learning a language, so
+Remember vocabulary is but a portion of learning a language, so
 immerse yourself via
 listening, talking, reading, and studying grammar, at least as much or preferably more than studying this deck!
 
@@ -47,6 +47,9 @@ tag them in this deck and add them to a custom study (just make sure to remove t
 
 Add personal notes to the "Anteckningar" section (WIP to display them on the cards).
 
+If you study the Kelly toplevel deck instead of the A1-C2 decks there are some words that Kelly doesn't have freqeuncy info for,
+but have been deemed important for an A1 speaker. You can view them with the search "tag:manual".
+
 Many cards require you to look at the word class (verb, noun, etc.) to get the right answer!
 
 Lycka till!
@@ -65,10 +68,10 @@ Contributers are welcome to make changes to improve HTML, fix errors, improve pe
 ## Contributing
 
 Finding blatant errors and creating issue reports is greatly appreciated.
-Please note the word and its kellyID (found in the Metadata field in as k####)
-and the correction needed (ideally include a reference). If you are more computer savvy please make a pull request.
+Please note the word and its kellyID (found in the Metadata field as k####)
+and the correction needed - ideally include a reference. If you are more computer savvy please make a pull request.
 
-Please do not add new words (unless they are missing and in Kelly).
+Please do not add new words unless they are missing and in Kelly.
 
 If you want to contribute to this project, please follow these steps:
 
