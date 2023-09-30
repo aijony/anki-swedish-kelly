@@ -18,12 +18,15 @@ When importing this deck, please make sure to add "Anteckningar" as a personal n
 This contains 8000+ of the most frequently used Swedish vocab terms (more or less) from
 the [Kelly](https://spraakbanken.gu.se/en/resources/kelly) database.
 There are colors for verb and noun inflections, and real human native speakers for almost every card.
+
 One may recommend skipping to whatever CEFR level you are at as the deck starts from very basic words (i.e. och, jag, ett).
 For example, if you are at a B1 level then start at the A2 deck,
 and feel free to suspend cards you know very well (they won't show up again).
-One may would [roughly](https://languagelearning.stackexchange.com/questions/3061/what-are-estimates-of-vocabulary-size-for-each-cefr-level)
+
+One may [roughly](https://languagelearning.stackexchange.com/questions/3061/what-are-estimates-of-vocabulary-size-for-each-cefr-level)
 translate finishing the A1 deck to having the vocabulary of a beginner A1 speaker
 and finishing the C2 deck as having half the vocabulary of an educated native speaker.
+
 Remember vocabulary is a small fraction of learning a language, so
 immerse yourself via
 listening, talking, reading, and studying grammar, at least as much or preferably more than studying this deck!
@@ -46,6 +49,8 @@ Add personal notes to the "Anteckningar" section (WIP to display them on the car
 
 Many cards require you to look at the word class (verb, noun, etc.) to get the right answer!
 
+Lycka till!
+
 ## Warnings
 
 Some verbs mix up the present tense (ends in an -r) instead of the infinitive (ends in an -a) in either the audio or pronunciation guide,
@@ -63,6 +68,8 @@ Finding blatant errors and creating issue reports is greatly appreciated.
 Please note the word and its kellyID (found in the Metadata field in as k####)
 and the correction needed (ideally include a reference). If you are more computer savvy please make a pull request.
 
+Please do not add new words (unless they are missing and in Kelly).
+
 If you want to contribute to this project, please follow these steps:
 
 0. Make sure you have `bash`, `git` (obviously), and `jq` installed.
@@ -71,9 +78,7 @@ If you want to contribute to this project, please follow these steps:
 3. Export "Svenska::Kelly" via CrowdAnki (only tick media files if you have changed, added, or removed some)
 4. Run `clean.sh` before committing. This will keep your personal notes away from the commit.
 
-Please do not add new words (unless they are missing and in Kelly).
-
-Thank you for contributing!
+Tack så mycket!
 
 ## Attributions
 
