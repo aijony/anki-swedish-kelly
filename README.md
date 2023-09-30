@@ -2,6 +2,8 @@
 
 This repository contains an Anki deck for Swedish vocabulary using the Kelly frequency list database. The deck is created using the Crowd Anki plugin.
 
+*WIP: This deck has not been reviewed by a human much less a fluent speaker*
+
 ## Installation
 
 To use this deck, you need to have the Crowd Anki plugin installed. Please follow the instructions in the [Crowd Anki plugin readme](https://github.com/Stvad/CrowdAnki) to install it.
