@@ -59,7 +59,7 @@ Lycka till!
 Some verbs mix up the present tense (ends in an -r) instead of the infinitive (ends in an -a) in either the audio or pronunciation guide,
 this should be fairly clear to see/hear and is an issue of lacking source material.
 
-Most of the processing was done programatically but where surely some bugs, errors in the source material,
+Most of the processing was done programatically but there were some bugs, errors in the source material,
 and linguistic complications that cannot be programmatically expressed very well.
 It was also NOT created by a native speaker NOR did the creater have a background in linguistics.
 Expect errors and mistranslations.
