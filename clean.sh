@@ -4,3 +4,5 @@
 # in entries with __type__ "Note" with an empty string using jq
 jq --indent 4 '.children[].notes[] |= if (.__type__ == "Note") then .fields[-1] = "" else . end' deck.json \
 	 > deck.tmp && mv deck.tmp deck.json
+
+awk '!/^.*"leech"?.$/' deck.json > deck.tmp && mv deck.tmp deck.json
