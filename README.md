@@ -62,7 +62,7 @@ This may indicate an over-representation of religious or educational texts
 in comparison to everyday speech.
 To address this this, you can build a [filtered deck](https://docs.ankiweb.net/filtered-decks.html)
 and searching and tagging with `Frekvens:X.__`.
-where `X` can range from 0 (uncommon) to 7 (abundant) and
+where `X` can range from 0 (rare) to 7 (abundant) and
 in the decimal place is the wildcard `_`
 that can be further specified.
 Values below 3.00 (once per million words) might be too niche to need to learn
@@ -84,7 +84,7 @@ If you do the last step every day, you will complete the deck in only two years!
 Or do 60 sessions of `5.9_`, `5.8_`, etc. once a month
 and finish in 5 years.
 
-Why not sort by wordfreq?
+Why not sort by wordfreq alone?
 Because it only takes into account a single inflection (this could be fixed)
 and doesn't concern itself about the grammatical forms or
 appearance in textbooks or exams.
@@ -145,12 +145,19 @@ Tack så mycket!
 
 ## Attributions
 
-This deck is sourced from the following resources (in approximate order of usage per word):
+This deck is uses the following resources (in approximate order of usage per Lemma):
+
 1. [Kelly](https://spraakbanken.gu.se/en/resources/kelly)
 4. [Saldo](https://spraakbanken.gu.se/resurser/saldo)
 5. [Saldo Morphology](https://spraakbanken.gu.se/resurser/saldom)
 2. [Folkets Lexikon](https://folkets-lexikon.csc.kth.se/folkets/)
 3. [Lexin](http://lexin.nada.kth.se/lexin/)
 6. [English](https://en.wiktionary.org/) and [Swedish](https://sv.wiktionary.org/) wiktionary
-7. [Forvo](https://forvo.com/) (via non-profit API)
+7. [Forvo](https://forvo.com/)
 8. [SAOL and SO](https://svenska.se/)
+
+This repository contains a combination of text and audio
+from the above sources which should all be in public domain
+or the author believes falls under fair use.
+
+Please report any infrigements.
