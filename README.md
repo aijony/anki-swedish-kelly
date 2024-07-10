@@ -3,7 +3,7 @@
 This repository contains an Anki deck for Swedish vocabulary using the Kelly frequency list database.
 The deck is created using the Crowd Anki plugin.
 
-*WIP: This deck has not been reviewed by a human much less a fluent speaker*
+*WIP: This deck has not been fully reviewed by a human much less a fluent speaker*
 
 ## Installation
 
@@ -48,7 +48,10 @@ An advanced learner may want to work backwards until the deck ceases being usefu
 
 One may [roughly](https://languagelearning.stackexchange.com/questions/3061/what-are-estimates-of-vocabulary-size-for-each-cefr-level)
 equate finishing the A1 deck to possessing the vocabulary of an A1 learner.
-Finishing the C2 deck would correspond to half the vocabulary of an educated native speaker.
+This corresponds to understanding over 50% of modern Swedish
+for the A1 deck and nearly 75% for A2.
+Finishing the C2 deck would correspond to half the vocabulary of an educated native speaker,
+but comprises over 95% of written Swedish (both formal and informal).
 
 ### Notes on word frequency
 
@@ -126,13 +129,26 @@ It was also NOT created by a native speaker NOR did the creater have a backgroun
 Expect errors and mistranslations.
 Contributers are welcome to make changes to improve HTML, fix errors, improve pedagogy, or add missing fields.
 
+## Review Progress
+
+Manual corrections are needed,
+here are what sections have been audited:
+
+| Deck | Review by non-native speaker |
+| ---- | ---------------------------- |
+| A1   | Mostly reviewed              |
+| A2   | Half reviewed                |
+| B1+  | Mostly unreviewed            |
+
 ## Contributing
 
 Finding blatant errors and creating issue reports is greatly appreciated.
 Please note the word and its kellyID (found in the Metadata field as k####)
 and the correction needed - ideally include a reference. If you are more computer savvy please make a pull request.
 
-Please do not add new words unless they are missing and in Kelly.
+Please do not add new words unless they are missing and in Kelly,
+or unless they can be cited as being in the top 8000 most used lemmas in
+modern Swedish.
 
 If you want to contribute to this project, please follow these steps:
 
