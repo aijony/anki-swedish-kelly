@@ -10,7 +10,7 @@ The deck is created using the Crowd Anki plugin.
 To use this deck, you need to have the Crowd Anki plugin installed.
 Please follow the instructions in the [Crowd Anki plugin readme](https://github.com/Stvad/CrowdAnki) to install it.
 
-Once you have installed the plugin, you can add this repository as a git repository or clone it and add it manually.
+Once you have installed the plugin, you can add this repository as via repository or clone it and add it manually.
 Note that adding as a repository may make Anki hang for a few minutes while it downloads the audio files (just be patient).
 
 ## Importing
@@ -70,7 +70,8 @@ and values above 6.00 (once per 1000 words) are so common
 you probably don't need to use Anki to learn them.
 It is also possible [sort by](https://docs.ankiweb.net/editing.html#customizing-fields)
 the "Frekvens" field.
-To sort by the 'Frekvens' field, select all, right-click, and then choose 'Cards→Reposition,' and uncheck 'Randomize.'.
+To queue studying via a sorted field, select all in the desired order,
+right-click, then choose 'Cards→Reposition' and leave 'Randomize' unchecked.
 
 An example study flow might be:
 0. Continue to do new cards in order from Kelly
